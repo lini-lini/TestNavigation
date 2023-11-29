@@ -11,3 +11,6 @@ Versions:
 * "@react-navigation/stack": "6.3.17"
 
 * "react-native": "0.72.4",
+
+
+! Not the bug, according documentation: https://reactnavigation.org/docs/use-focus-effect/#delaying-effect-until-transition-finishes
