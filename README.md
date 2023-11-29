@@ -13,4 +13,4 @@ Versions:
 * "react-native": "0.72.4",
 
 
-! Not the bug, according documentation: https://reactnavigation.org/docs/use-focus-effect/#delaying-effect-until-transition-finishes
+! Not a bug, according the documentation: https://reactnavigation.org/docs/use-focus-effect/#delaying-effect-until-transition-finishes
